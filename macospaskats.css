@@ -1,0 +1,40 @@
+body {
+	background-color:#cceeff;
+	}
+
+#header {
+	text-align:center;
+	font-size:400%;
+	}
+
+.black {
+	background-color:rgba(0,0,0,0.8);
+	color:#f2f2f2;
+	font-size:110%;
+	padding:15px;
+	}
+
+#theend {
+	text-align:center;
+	font-size:300%;
+	color:#002233;
+	font-family:italic;
+	}
+
+Button {
+	float:center;
+	background-color:rgba(0,33,51,0.8);
+	padding:10px;
+	color:#cceeff; 
+}
+
+iframe {
+	height:500px;
+	width:1050px;
+	border:1px solid darkblue;
+}
+
+
+	
+
+	
